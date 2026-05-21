@@ -17,8 +17,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandersonjosejr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandersonjosejr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="41%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandersonjosejr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandersonjosejr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 ---
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Enviar%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sanderson-jos%C3%A9-da-luz-junior-801089234/" target="_blank">
+  <a href="https://www.linkedin.com/in/sanderson-jos%C3%A9-da-luz-junior-801089234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>

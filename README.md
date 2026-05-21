@@ -45,7 +45,7 @@
 
 ---
 
-## 🐍 Contribuições
+## 🐍
 
 <div align="center">
   <picture>

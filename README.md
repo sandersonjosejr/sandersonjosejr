@@ -1,14 +1,14 @@
 <h1 align="center">Olá! Eu sou o Sanderson José 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor apaixonado por tecnologia, sempre aprendendo e construindo coisas novas.</em>
+  <em>Engenheiro de Software Junior | Apaixonado por tecnologia, sempre aprendendo e construindo coisas novas.</em>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor com experiência em back-end, front-end e banco de dados
+- 👨‍💻 Engenheiro de Software Junior com experiência em back-end, front-end e banco de dados
 - 🌱 Sempre explorando novas tecnologias e boas práticas
 - 🤝 Aberto a colaborações e novos projetos
 
@@ -17,8 +17,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandersonjosejr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandersonjosejr&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandersonjosejr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandersonjosejr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="41%"/>
 </div>
 
 ---
@@ -42,10 +42,12 @@
 ## 📬 Entre em contato
 
 <div align="center">
-  <a href="mailto:sandersonjosedaluzjr@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Sanderson%2C%20vim%20pelo%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato!">
-    <img src="https://img.shields.io/badge/📧%20Enviar%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail"/>
+  <p>Ficou interessado no meu trabalho? Me manda uma mensagem! 😊</p>
+  <a href="mailto:sandersonjosedaluzjr@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1%20Sanderson%2C%20vim%20pelo%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato!">
+    <img src="https://img.shields.io/badge/Enviar%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail"/>
   </a>
-  <a href="https://www.linkedin.com/in/sanderson-josé-da-luz-junior-801089234/" target="_blank">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sanderson-jos%C3%A9-da-luz-junior-801089234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
